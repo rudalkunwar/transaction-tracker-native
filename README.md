@@ -1,14 +1,5 @@
-# VyaparKhata
+# transaction-tracker
 
-<p align="center">
-  <img src="assets/logo.png" alt="VyaparKhata Logo" width="120" />
-</p>
-
-<p align="center">
-  <b>व्यापार खाता - सजिलै व्यापार व्यवस्थापन गर्नुहोस्</b>
-</p>
-
-VyaparKhata is a mobile application designed to help Nepali micro-businesses automatically track payment transactions through SMS notifications. The app captures payment notifications from services like Khalti, eSewa, and FonePay, parsing the SMS content to create transaction records without manual entry.
 
 ## 📱 Features
 
@@ -111,9 +102,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions or feedback, please reach out at:
-
-- Email: support@vyaparkhata.com
-- Website: [vyaparkhata.com](https://vyaparkhata.com)
 
 ---
 
